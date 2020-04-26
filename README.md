@@ -9,3 +9,6 @@ From the blogs, we can read the journey of other developers and the things they 
  3. [Samantha Ming](https://twitter.com/samantha_ming) - [https://www.samanthaming.com](https://www.samanthaming.com/)
  4. [Ahmad Awais](https://twitter.com/MrAhmadAwais) - [https://ahmadawais.com](https://ahmadawais.com/)
  5. [Maedah Batool](https://twitter.com/MaedahBatool/) - [https://maedahbatool.com](https://maedahbatool.com/)
+ 6. [swyx](https://twitter.com/swyx) - [https://www.swyx.io](https://www.swyx.io/)
+ 7. [Bhavani Ravi](https://twitter.com/geeky_bhavani) - [https://bhavaniravi.com](https://bhavaniravi.com/)
+ 8. [Emma Bostian](https://twitter.com/emmabostian) - [https://compiled.blog](https://compiled.blog)
